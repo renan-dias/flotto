@@ -1,4 +1,4 @@
-# Smille and say cheese :camera_flash: Here`s Flotto a Instagram clone
+# Smille and say cheese :camera_flash: Here`s Flottogram, a Instagram clone
 > This is a project to study flutter and dart, made using Flutterflow in the front-end and Firebase in the back-end. And basically it is a clone of the Instagram app, but with a few differences, such as the name and the filters.
 
 ## :camera_flash: Technologies
@@ -26,4 +26,4 @@ I`m looking for a hosting to deploy this project, but for now you can see a my t
 - [x] Deploy project on the firebase
 - [ ] secret feature here :wink:
     - [ ] Another secret feature here
-- [ ] A super secret
+- [ ] A super secret feature here, but maybe you know :smile: 
