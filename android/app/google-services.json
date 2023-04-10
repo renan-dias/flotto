@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "149407890585",
+    "project_id": "flottogram",
+    "storage_bucket": "flottogram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149407890585:android:ac496838e92c37b6d14c08",
+        "android_client_info": {
+          "package_name": "com.flottoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149407890585-lrpe5usqeaojlo5ffglrbcebufc5q7vg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flottoapp",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "149407890585-h7l323unhqt14ps0ehvhe4nkq0gm7i8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2rLWvoc3l7sIOkAyiDE_cBXIMEibLg_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149407890585-h7l323unhqt14ps0ehvhe4nkq0gm7i8l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "149407890585-3k9i1lutc8htfb89n7vqst54msftq1ai.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flottoapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
